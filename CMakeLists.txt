@@ -3,4 +3,11 @@ project(Kuhn_Poker)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Kuhn_Poker main.cpp)
+add_executable(Kuhn_Poker main.cpp
+        kuhn.h
+        cfr.h
+        print.h
+        kuhn.cpp
+        cfr.cpp
+        print.cpp
+)
