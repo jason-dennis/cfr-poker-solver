@@ -1,5 +1,3 @@
-#include <string>
-
 #include "cfr.h"
 #include "game.h"
 #include "print.h"
