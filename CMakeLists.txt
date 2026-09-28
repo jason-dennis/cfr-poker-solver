@@ -10,4 +10,7 @@ add_executable(Kuhn_Poker main.cpp
         kuhn.cpp
         cfr.cpp
         print.cpp
+        ui.h
+        game.h
+        game.cpp
 )
